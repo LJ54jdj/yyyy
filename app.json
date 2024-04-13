@@ -4,7 +4,8 @@
     "pages/logs/logs",
     "pages/my/my",
     "pages/apply/apply",
-    "pages/message/message"
+    "pages/message/message",
+    "pages/found/found"
   ],
   "window": {
     "navigationBarTextStyle": "black",
