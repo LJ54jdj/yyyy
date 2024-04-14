@@ -1,2 +1,11 @@
-<!--pages/message/message.wxml-->
-<text>pages/message/message.wxml</text>
+<view class="Search">
+  <view class="w90">
+    <text>消息</text>
+    <view>
+      <image src="../../imgs/search.png" mode=""/>
+      <input type="text" placeholder="搜索应用 消息 新闻"/>
+    </view>
+    <image src="../../imgs/扫码.png"/>
+    <image src="../../imgs/消息-置灰.png"/>
+  </view>
+</view>
