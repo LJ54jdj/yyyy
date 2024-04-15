@@ -45,3 +45,36 @@
     <view>推荐应用</view>
   </view>
 </view>
+<!-- 操作栏 -->
+<view class="operate">
+  <view>
+  <view class="y">
+    <image src="../../imgs/messageimgs/3.png" />
+  </view>
+    <view class="texts">
+      <view>教职工请假申请</view>
+      <view>工作部门：系统维护 请假人：xxx</view>
+    </view>
+    <view>昨天</view>
+  </view>
+  <view>
+  <view class="p">
+    <image src="../../imgs/messageimgs/4.png" />
+  </view>
+    <view class="texts">
+      <view>教职工请假申请</view>
+      <view>工作部门：系统维护 请假人：xxx</view>
+    </view>
+    <view>昨天</view>
+  </view>
+  <view>
+  <view class="g">
+     <image src="../../imgs/messageimgs/5.png" />
+  </view>
+    <view class="texts">
+      <view>教职工请假申请</view>
+      <view>工作部门：系统维护 请假人：xxx</view>
+    </view>
+    <view>昨天</view>
+  </view>
+</view>
