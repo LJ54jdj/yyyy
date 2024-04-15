@@ -1,1 +1,7 @@
-/* pages/login/login.wxss */
+/* pages/login/login.wxss */.top{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30rpx;
+}
