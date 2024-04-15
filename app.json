@@ -6,7 +6,8 @@
     "pages/apply/apply",
     "pages/message/message",
     "pages/found/found",
-    "pages/i/i"
+    "pages/i/i",
+    "pages/login/login"
   ],
   "window": {
     "navigationBarTextStyle": "black",

@@ -1,0 +1,8 @@
+<view class="top">
+  <view>
+    <image src="../../images/imgs/叉叉.png" />
+  </view>
+  <view>验证码登录</view>
+</view>
+
+<view class="tit">账号密码登录</view>
