@@ -8,6 +8,27 @@
     "miniprogram": {
       "list": [
         {
+          "name": "pages/found/found",
+          "pathName": "pages/found/found",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/my/my",
+          "pathName": "pages/my/my",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
           "name": "pages/message/message",
           "pathName": "pages/message/message",
           "query": "",
