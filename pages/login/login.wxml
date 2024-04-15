@@ -6,3 +6,10 @@
 </view>
 
 <view class="tit">账号密码登录</view>
+<!-- 账号密码登录 -->
+<view class="login">
+  <input type="text" placeholder="请输入登录账号" />
+  <input type="safe-password" placeholder="请输入密码" />
+  <view>登录遇到问题？</view>
+  <button>登录</button>
+</view>
