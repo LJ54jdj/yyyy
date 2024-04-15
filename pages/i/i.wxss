@@ -5,3 +5,21 @@
   height: 100rpx;
   background: linear-gradient(to top,#fdfffe,#d344af);
 }
+/* 我的 */
+.me{
+  width: 90%;
+  height: 30rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 40rpx;
+  margin-top: 10rpx;
+  padding-top: 20rpx;
+}
+.me>image{
+  width: 10%;
+}
+.me>view{
+  font-size: 25rpx;
+  font-weight: 900;
+}
