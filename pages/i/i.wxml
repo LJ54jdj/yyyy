@@ -39,3 +39,9 @@
     </view>
   </view>
 </view>
+<!-- 推荐应用 -->
+<view class="app">
+  <view>
+    <view>推荐应用</view>
+  </view>
+</view>
