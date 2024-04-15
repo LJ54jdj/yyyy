@@ -125,3 +125,17 @@
 .flexbox{
   display: flex;
 }
+/* 推荐应用 */
+.app{
+  width: 90%;
+  margin: auto;
+  margin-top: 50rpx;
+}
+.app>view:first-child{
+  margin-bottom: 30rpx;
+}
+.app>view:first-child>view:first-child{
+  font-size: 40rpx;
+  font-weight: 600;
+  margin-bottom: 20rpx;
+}
