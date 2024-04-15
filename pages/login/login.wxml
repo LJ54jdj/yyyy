@@ -13,3 +13,18 @@
   <view>登录遇到问题？</view>
   <button>登录</button>
 </view>
+<!-- 底部图片 -->
+<view class="botpic">
+  <view>
+    <image src="../../images/imgs/刷脸.png" />
+    <view>刷脸登录</view>
+  </view>
+  <view>
+    <image src="../../images/imgs/微博.png" />
+    <view>一键登录</view>
+  </view>
+  <view>
+    <image src="../../images/imgs/微信.png" />
+    <view>微信登录</view>
+  </view>
+</view>
