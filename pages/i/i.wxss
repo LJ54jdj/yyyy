@@ -1,1 +1,7 @@
 /* pages/i/i.wxss */
+/* 背景 */
+.bg{
+  margin-top: -10rpx;
+  height: 100rpx;
+  background: linear-gradient(to top,#fdfffe,#d344af);
+}
