@@ -40,3 +40,16 @@
   background-color: #21DB95;
   margin-top: 80rpx;
 }
+.botpic{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 120rpx;
+  left: 80rpx;
+}
+.botpic>view{
+  margin-right: 80rpx;
+  text-align: center;
+}
