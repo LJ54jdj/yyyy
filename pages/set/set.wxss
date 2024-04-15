@@ -1,0 +1,55 @@
+.top{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.top>view:first-child{
+  position: absolute;
+  left: 0;
+}
+.top>view>image{
+  width: 50rpx;
+  height: 50rpx;
+}
+.top>view:nth-child(2){
+  font-size: 45rpx;
+}
+
+.set{
+  width: 90%;
+  margin: auto;
+  margin-top: 50rpx;
+}
+.set>view{
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgb(192, 189, 189);
+  height: 100rpx;
+  margin-bottom: 40rpx;
+}
+.set>view>view>image{
+  width: 45rpx;
+  height: 45rpx;
+  margin-right: 40rpx;
+}
+.set .us{
+  display: flex;
+  align-items: center;
+  height: 100rpx;
+  margin-bottom: 40rpx;
+}
+
+.exit{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  margin-top: 100rpx;
+  color: #619BFD;
+}
+.exit>view>image{
+  width: 45rpx;
+  height: 45rpx;
+  margin-right: 30rpx;
+}

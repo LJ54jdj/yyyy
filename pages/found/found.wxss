@@ -79,6 +79,7 @@
 .flexbox{
   display: flex;
 }
+
 /* 通知公告 */
 .new{
   width: 90%;

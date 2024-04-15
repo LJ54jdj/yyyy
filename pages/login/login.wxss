@@ -1,4 +1,4 @@
-/* pages/login/login.wxss */.top{
+.top{
   width: 90%;
   margin: auto;
   display: flex;
@@ -17,6 +17,7 @@
   font-weight: 600;
   margin-top: 50rpx;
 }
+
 .login{
   width: 90%;
   margin: auto;
@@ -40,6 +41,7 @@
   background-color: #21DB95;
   margin-top: 80rpx;
 }
+
 .botpic{
   width: 90%;
   margin: auto;

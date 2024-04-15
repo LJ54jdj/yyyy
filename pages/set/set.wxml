@@ -1,0 +1,46 @@
+<view class="top">
+  <view>
+    <image src="../../imgs/左箭头.png" />
+  </view>
+  <view>设置</view>
+</view>
+
+<view class="set">
+  <view>
+    <view>
+      <image src="../../imgs/喇叭.png" />
+    </view>
+    <view>新消息通知</view>
+  </view>
+  <view>
+    <view>
+      <image src="../../imgs/版本.png" />
+    </view>
+    <view>版本更新</view>
+  </view>
+  <view>
+    <view>
+      <image src="../../imgs/清除缓存.png" />
+    </view>
+    <view>清除缓存</view>
+  </view>
+  <view>
+    <view>
+      <image src="../../imgs/修改密码.png" />
+    </view>
+    <view>修改密码</view>
+  </view>
+  <view class="us">
+    <view>
+      <image src="../../imgs/关于我们.png" />
+    </view>
+    <view>关于我们</view>
+  </view>
+</view>
+
+<view class="exit">
+  <view>
+    <image src="../../imgs/退出.png" />
+  </view>
+  <view>退出登录</view>
+</view>
