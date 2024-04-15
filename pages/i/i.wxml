@@ -1,2 +1,11 @@
 <!--pages/i/i.wxml-->
-<text>pages/i/i.wxml</text>
+<!-- 背景 -->
+<view class="bg">
+  <!-- 我的 -->
+<view class="me">
+  <image src="../../imgs/app.png" mode="aspectFit"/>
+  <view>
+    我的
+  </view>
+  <image src="../../imgs/app.png" mode="aspectFit"/>
+</view>
