@@ -17,3 +17,8 @@
   font-weight: 600;
   margin-top: 50rpx;
 }
+.login{
+  width: 90%;
+  margin: auto;
+  margin-top: 130rpx;
+}
