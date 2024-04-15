@@ -28,3 +28,7 @@
   border-bottom: 2px solid #dbd8d8;
   margin-top: 40rpx;
 }
+.login>view{
+  margin-top: 30rpx;
+  color: #8e918e;
+}
