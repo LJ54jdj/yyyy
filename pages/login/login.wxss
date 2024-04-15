@@ -53,3 +53,10 @@
   margin-right: 80rpx;
   text-align: center;
 }
+.botpic>view>image{
+  width: 70rpx;
+  height: 70rpx;
+}
+.botpic>view>view{
+  font-size: 25rpx;
+}
