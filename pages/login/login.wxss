@@ -22,3 +22,9 @@
   margin: auto;
   margin-top: 130rpx;
 }
+.login>input{
+  width: 100%;
+  height: 90rpx;
+  border-bottom: 2px solid #dbd8d8;
+  margin-top: 40rpx;
+}
