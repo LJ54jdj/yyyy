@@ -1,5 +1,5 @@
 <!--pages/found/found.wxml-->
-<text>pages/found/found.wxml</text><!-- 搜索栏 -->
+<!-- 搜索栏 -->
 <view class="Search">
   <view class="w90">
     <text>发现</text>
