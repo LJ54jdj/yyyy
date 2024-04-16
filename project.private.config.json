@@ -3,18 +3,5 @@
   "projectname": "miniprogram3.5",
   "setting": {
     "compileHotReLoad": true
-  },
-  "condition": {
-    "miniprogram": {
-      "list": [
-        {
-          "name": "pages/set/set",
-          "pathName": "pages/set/set",
-          "query": "",
-          "launchMode": "default",
-          "scene": null
-        }
-      ]
-    }
   }
 }

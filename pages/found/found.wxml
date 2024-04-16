@@ -1,65 +1,77 @@
+
 <!--pages/found/found.wxml-->
 <!-- 搜索栏 -->
-<view class="Search"> <!-- 定义一个包含搜索栏的视图 -->
-  <view class="w90"> <!-- 定义一个包含搜索栏内容的视图，宽度为父容器的90% -->
-    <text>发现</text> <!-- 显示文本“发现” -->
-    <view> <!-- 定义一个包含搜索图标和输入框的视图 -->
-      <image src="../../imgs/search.png" mode=""/> <!-- 显示搜索图标 -->
-      <input type="text" placeholder="搜索应用 消息 新闻"/> <!-- 显示搜索输入框，带有占位符 -->
-    </view>
-    <image src="../../imgs/扫码.png"/> <!-- 显示扫码图标 -->
-    <image src="../../imgs/消息-置灰.png"/> <!-- 显示消息图标（置灰） -->
-  </view>
+<view class="Search">
+  <view class="w90">
+    <text>发现</text>
+    <view>
+      <image src="../../imgs/search.png" mode=""/>
+      <input type="text" placeholder="搜索应用 消息 新闻"/>
+    </view>
+    <image src="../../imgs/扫码.png"/>
+    <image src="../../imgs/消息-置灰.png"/>
+  </view>
 </view>
-
 <!-- 头部图片 -->
-<view class="topimg"> <!-- 定义一个包含头部图片的视图 -->
-  <image src="../../imgs/findationimgs/top.png" mode=""/> <!-- 显示顶部图片 -->
-  <view class="toptitle"> <!-- 定义一个包含头部标题和描述的视图 -->
-    <view>发现新鲜事</view> <!-- 显示标题“发现新鲜事” -->
-    <view>校内各院系各部门重要新闻汇报</view> <!-- 显示内容描述 -->
-    <view>随时随地查看</view> <!-- 显示内容描述 -->
-  </view>
+<view class="topimg">
+  <image src="../../imgs/findationimgs/top.png" mode="" />
+  <view class="toptitle">
+    <view>发现新鲜事</view>
+    <view>校内各院系各部门重要新闻汇报</view>
+    <view>随时随地查看</view>
+  </view>
 </view>
-
 <!-- 最新上线 -->
-<view class="new"> <!-- 定义一个包含最新上线内容的视图 -->
-  <view class="options flexbox"> <!-- 定义一个包含选项的视图，采用弹性盒子布局 -->
-    <view>通知公告</view> <!-- 显示通知公告选项 -->
-    <view>学校新闻</view> <!-- 显示学校新闻选项 -->
-    <view>综合信息</view> <!-- 显示综合信息选项 -->
-    <view>学术动态</view> <!-- 显示学术动态选项 -->
-  </view>
+<view class="new">
+  <view class="options flexbox">
+    <view>通知公告</view>
+    <view>学校新闻</view>
+    <view>综合信息</view>
+    <view>学术动态</view>
+  </view>
 </view>
 <!-- 通知栏 -->
-<view class="notice"> <!-- 定义一个包含通知的视图 -->
-  <view class="new flexbox"> <!-- 定义一个包含通知内容的视图，采用弹性盒子布局 -->
-    <view class="text"> <!-- 定义一个包含通知文本的视图 -->
-      <view>关于加强新生入学后校园安全管理规范的通知</view> <!-- 显示通知标题 -->
-      <view>校园新闻网</view> <!-- 显示通知来源 -->
-    </view>
-    <view class="b"> <!-- 定义一个包含通知标识图标的视图 -->
-      <image src="../../imgs/newfeel.png"/> <!-- 显示通知标识图标 -->
-    </view>
-  </view>
- 
-  <view class="new flexbox"> <!-- 定义一个包含通知内容的视图，采用弹性盒子布局 -->
-    <view class="text"> <!-- 定义一个包含通知文本的视图 -->
-      <view>关于加强新生入学后校园安全管理条例实行的通知</view> <!-- 显示通知标题 -->
-      <view>教务处</view> <!-- 显示通知来源 -->
-    </view>
-    <view class="g"> <!-- 定义一个包含通知标识图标的视图 -->
-      <image src="../../imgs/item1.png"/> <!-- 显示通知标识图标 -->
-    </view>
-  </view>
- 
-  <view class="new flexbox"> <!-- 定义一个包含通知内容的视图，采用弹性盒子布局 -->
-    <view class="text"> <!-- 定义一个包含通知文本的视图 -->
-      <view>关于开展2023新生入学教育系列培训课程的指导意见</view> <!-- 显示通知标题 -->
-      <view>信息化管理中心</view> <!-- 显示通知来源 -->
-    </view>
-    <view class="s"> <!-- 定义一个包含通知标识图标的视图 -->
-      <image src="../../imgs/item2.png"/> <!-- 显示通知标识图标 -->
-    </view>
-  </view>
+<view class="notice">
+  <view class="new flexbox">
+  <view class="text">
+    <view>
+      关于加强新生入学后校园安全管理规范的通知
+    </view>
+    <view>
+      校园新闻网
+    </view>
+  </view>
+  <view class="b">
+    <image src="../../imgs/newfeel.png" />
+  </view>
+    
+  </view>
+  <view class="new flexbox">
+  <view class="text">
+    <view>
+      关于加强新生入学后校园安全管理条例实行的通知
+    </view>
+    <view>
+      教务处
+    </view>
+  </view>
+  <view class="g">
+    <image src="../../imgs/item1.png" />
+  </view>
+    
+  </view>
+  <view class="new flexbox">
+  <view class="text">
+    <view>
+      关于开展2023新生入学教育系列培训课程的指导意见
+    </view>
+    <view>
+      信息化管理中心
+    </view>
+  </view>
+  <view class="s">
+    <image src="../../imgs/item2.png" />
+  </view>
+    
+  </view>
 </view>
