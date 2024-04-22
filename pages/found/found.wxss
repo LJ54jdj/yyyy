@@ -111,26 +111,8 @@
   align-items: center;
   box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.1);
 }
-.notice .new>view:last-child{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 120rpx;
-  height: 120rpx;
-  border-radius: 20rpx;
-}
-.b{
-  background: linear-gradient(to top,#ddfeff,#befdff);
-}
-.g{
-  background: linear-gradient(to top,#d1e3b5,#a4c86e);
-}
-.s{
-  background: linear-gradient(to top,#e3feff,#b5fcfe);
-}
-.notice .new>view:last-child>image{
-  width: 120rpx;
-  height: 120rpx;
+.notice .new>image{
+  width: 30%;
   border-radius: 20rpx;
 }
 .notice .text{

@@ -1,55 +1,57 @@
 {
   "pages": [
-    "pages/my/my",
-    "pages/set/set",
-    "pages/found/found",
+    "pages/duanxin/duanxin",
+    "pages/welcome/welcome",
+    "pages/sehzhi/shezhi",
+    "pages/index/index",
     "pages/login/login",
-    "pages/i/i",
+    "pages/found/found",
+    "pages/myself/myself",
     "pages/message/message",
     "pages/apply/apply",
-    "pages/index/index",
+    "pages/my/my",
     "pages/logs/logs",
-    "pages/index/flex/flex",
-    "pages/find/find"
+    "pages/index/flex/flex"
     
   ],
   "window": {
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "Weixin",
+    "navigationBarTitleText": "完美校园",
     "navigationBarBackgroundColor": "#ffffff"
   },
   "tabBar": {
-    "list": [{
-      "pagePath": "pages/my/my",
-      "text": "首页",
-      "iconPath": "/imgs/index.png",
-      "selectedIconPath": "/imgs/indexOne.png"
-    },
-    {
-      "pagePath": "pages/apply/apply",
-      "text": "应用",
-      "iconPath": "/imgs/app1.png",
-      "selectedIconPath": "/imgs/app.png"
-    },
-    {
-      "pagePath": "pages/message/message",
-      "text": "消息",
-      "iconPath": "/imgs/mess.png",
-      "selectedIconPath": "/imgs/message.png"
-    },
-    {
-      "pagePath": "pages/found/found",
-      "text": "发现",
-      "iconPath": "/imgs/findation.png",
-      "selectedIconPath": "/imgs/findationOne.png"
-    },
-    {
-      "pagePath": "pages/i/i",
-      "text": "我的",
-      "iconPath": "/imgs/my.png",
-      "selectedIconPath": "/imgs/myOne.png"
-    }
-  ]
+    "list": [
+      {
+        "pagePath": "pages/my/my",
+        "text": "首页",
+        "iconPath": "/imgs/index.png",
+        "selectedIconPath": "/imgs/indexOne.png"
+      },
+      {
+        "pagePath": "pages/apply/apply",
+        "text": "应用",
+        "iconPath": "/imgs/app1.png",
+        "selectedIconPath": "/imgs/app.png"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "text": "消息",
+        "iconPath": "/imgs/mess.png",
+        "selectedIconPath": "/imgs/message.png"
+      },
+      {
+        "pagePath": "pages/found/found",
+        "text": "发现",
+        "iconPath": "/imgs/findation.png",
+        "selectedIconPath": "/imgs/findationOne.png"
+      },
+      {
+        "pagePath": "pages/myself/myself",
+        "text": "我的",
+        "iconPath": "/imgs/my.png",
+        "selectedIconPath": "/imgs/myOne.png"
+      }
+    ]
   },
   "style": "v2",
   "componentFramework": "glass-easel",

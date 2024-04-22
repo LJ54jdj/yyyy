@@ -1,3 +1,5 @@
+<!--pages/message/message.wxml-->
+<!-- 搜索栏 -->
 <view class="Search">
   <view class="w90">
     <text>消息</text>
@@ -42,6 +44,7 @@
     <view>系统</view>
   </view>
 </view>
+<!-- 操作栏 -->
 <view class="operate">
   <view>
     <image src="../../imgs/messageimgs/6.png" mode="aspectFit"/>
